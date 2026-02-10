@@ -1,0 +1,74 @@
+================================================================================
+PHISHING EMAIL EVOLUTION ANALYSIS REPORT
+================================================================================
+
+Generated: 2026-02-11 01:15:51
+
+================================================================================
+
+1. DATASET SUMMARY
+--------------------------------------------------------------------------------
+Total emails analyzed: 2000
+Time period: 2015 - 2024
+Phishing emails: 2000
+Legitimate emails: 0
+
+2. KEY TEMPORAL TRENDS
+--------------------------------------------------------------------------------
+======================================================================
+PHISHING EVOLUTION TEMPORAL ANALYSIS REPORT
+======================================================================
+
+Analysis Period: 2015 - 2024
+Total Records: 2000
+
+TOP INCREASING TRENDS:
+----------------------------------------------------------------------
+  • lexical_diversity: +0.9% (correlation: 0.702)
+  • gunning_fog: +4.9% (correlation: 0.688)
+  • has_greeting: +35.3% (correlation: 0.521)
+  • reward_density: +36.4% (correlation: 0.474)
+  • flesch_reading_ease: +11.8% (correlation: 0.418)
+
+TOP DECREASING TRENDS:
+----------------------------------------------------------------------
+  • is_https: -13.2% (correlation: -0.477)
+  • avg_word_length: -1.0% (correlation: -0.429)
+  • sentiment_subjectivity: -28.6% (correlation: -0.372)
+  • sentiment_polarity: -28.6% (correlation: -0.372)
+  • url_length: -0.8% (correlation: -0.347)
+
+STABLE FEATURES:
+----------------------------------------------------------------------
+  • subdomain_count (correlation: -0.052)
+  • misleading_keywords (correlation: -0.006)
+
+======================================================================
+
+3. URL SOPHISTICATION EVOLUTION
+--------------------------------------------------------------------------------
+HTTPS Adoption: 45.5% → 39.5%
+Average Subdomains: 0.20 → 0.21
+Average URL Length: 35 → 35
+
+4. LANGUAGE SOPHISTICATION
+--------------------------------------------------------------------------------
+Readability (Flesch): 15.0 → 16.7
+Lexical Diversity: 0.895 → 0.903
+
+5. PSYCHOLOGICAL TACTICS EVOLUTION
+--------------------------------------------------------------------------------
+Urgency Tactics: 0.0287 → 0.0333
+Fear Tactics: 0.0163 → 0.0193
+Authority Impersonation: 0.0313 → 0.0299
+
+6. KEY INSIGHTS
+--------------------------------------------------------------------------------
+• Linguistic sophistication of phishing emails remains stable
+• Phishing URLs rely less on HTTPS infrastructure
+• Phishing URLs have become structurally more complex
+• Use of urgency-based psychological manipulation has increased
+
+================================================================================
+END OF REPORT
+================================================================================
